@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item2.practice;
+package effectivejava.chapter2.item1;
 
 public class AllAboutBoolean {
     public static void main(String[] args) {
