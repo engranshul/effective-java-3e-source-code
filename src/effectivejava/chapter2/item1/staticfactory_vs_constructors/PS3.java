@@ -1,9 +1,6 @@
 package effectivejava.chapter2.item1.staticfactory_vs_constructors;
 
-
-
 import effectivejava.chapter2.item1.staticfactory_vs_constructors.helpers.*;
-
 import java.util.*;
 
 public class PS3 {
@@ -27,10 +24,10 @@ public class PS3 {
 /*
 Static method can return an object of any subtype of their return type
 The existence of these two implementation classes is invisible to clients. If
-ceased to offer performance advantages for small enum types, it
+ceased to offer performance advantages for small enum types,
 RegularEnumSet could be eliminated from a future release with no ill effects.
 Similarly, a future release could add a third or fourth implementation of
-if it proved beneficial EnumSet.for performance. Clients neither know nor care
+if it proved beneficial EnumSet for performance. Clients neither know nor care
 about the class of the object they get back from the factory; they care only
 that it is some subclass of EnumSet
 */

@@ -11,7 +11,7 @@
 
 #### disadvantages of static factory methods 
 * do not stand out in api documentation
-* classes with public or protected constructors can not be subclasssed
+* classes without public or protected constructors can not be subclasssed
 
 #### conclusion
 static factory methods and public constructors both have their
