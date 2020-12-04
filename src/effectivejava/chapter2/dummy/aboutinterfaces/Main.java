@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item1.aboutinterfaces;
+package effectivejava.chapter2.dummy.aboutinterfaces;
 
 public class Main {
     public static void main(String[] args) {

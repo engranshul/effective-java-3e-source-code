@@ -1,4 +1,4 @@
-package effectivejava.chapter2.item1;
+package effectivejava.chapter2.dummy;
 
 public class EnumSetClass {
 
