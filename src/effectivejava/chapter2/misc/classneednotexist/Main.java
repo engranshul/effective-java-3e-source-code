@@ -1,4 +1,4 @@
-package effectivejava.chapter2.dummy.classneednotexist;
+package effectivejava.chapter2.misc.classneednotexist;
 
 // see jdbc architecture to understand this..
 public class Main {
