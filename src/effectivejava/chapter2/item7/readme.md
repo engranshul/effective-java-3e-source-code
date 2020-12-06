@@ -51,6 +51,8 @@
   that callbacks are garbage collected promptly is to store only weak references to
   them, for instance, by storing them only as keys in a WeakHashMap.
   
+  https://stackoverflow.com/questions/2859464/how-to-avoid-memory-leaks-in-callback
+  
     
 ### hashmap vs weakhashmap
 * https://www.geeksforgeeks.org/hashmap-vs-weakhashmap-java/  
