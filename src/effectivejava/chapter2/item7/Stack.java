@@ -2,7 +2,7 @@ package effectivejava.chapter2.item7;
 import java.util.*;
 
 // Can you spot the "memory leak"?  (Pages 26-27)
-public class Stack {
+public class                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Stack {
     private Object[] elements;
     private int size = 0;
     private static final int DEFAULT_INITIAL_CAPACITY = 16;
